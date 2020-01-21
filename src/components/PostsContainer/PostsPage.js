@@ -15,8 +15,7 @@ const PostsPage = (props) => {
         <Post post={obj}/>
       ))}
 
-      {/* <Post post={data[0]} />
-      <Post post={data[1]} /> */}
+      
     </div>
   );
 };

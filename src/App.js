@@ -21,7 +21,6 @@ const App = () => {
     <div className="App">
       <SearchBar />
       <PostsPage data={data} />
-      
     </div>
   );
 };
